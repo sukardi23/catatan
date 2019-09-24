@@ -1,3 +1,4 @@
+git init
 root@rocker-kardi:/catatan/catatan# git add .
 root@rocker-kardi:/catatan/catatan# git commit -m "perubahan catatan"
 root@rocker-kardi:/catatan/catatan# git push origin master
