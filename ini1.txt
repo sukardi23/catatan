@@ -1,1 +1,10 @@
-coba1
+1. Buat user dengan nama masing-masing. Pastikan home directoroy user berada di folder /home/[user]
+2. login mengguanak user yang baru dibuat
+3. Buat folder pertani1 pertani2 pertani3 didalam folder /home/[user]/
+4. buat file duren3.txt didalam folder pertani1 dengan isian 
+keacamatan duren tiga
+5. copy file duren3.txt kedalam folder /home/[user]/pertani2 dan /home/[user]/pertani3
+
+6. ganti password user anda.
+7. tambahkan user ke dalam group sudo
+8. compress semua isi folder /home/[user]/* dengan nama pertani1.tar.gz
